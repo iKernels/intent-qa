@@ -16,7 +16,11 @@ and
 	
 	published at the NAACL2021 conference.
 
-The folder contains three datasets, i.e. Quora, FAQ-Hype and IC&OOS datasets.
+The folder contains three datasets:
+
+- Quora
+- FAQ-Hype
+- IC&OOS
 
 
 ### QUORA INTENT DATASET
